@@ -29,7 +29,7 @@ public class Point2Test {
 	 @Test
 	    public void testFailPunto() {
 	        assertNotEquals(12, pt.getX());
-	        assertNotEquals(11, pt.getY());
+	        assertNotEquals(33, pt.getY());
 	    }
 	 
 	 @Test
