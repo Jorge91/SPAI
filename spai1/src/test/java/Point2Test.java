@@ -34,6 +34,7 @@ public class Point2Test {
 	 
 	 @Test
 	    public void testNotNull() {
+		 
 	        assertNotNull(pt);
 	    }
 	 
